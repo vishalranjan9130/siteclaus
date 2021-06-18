@@ -1,4 +1,4 @@
 # siteclaus
  a business website
 
-vishalranjan9130/carousal-2
+https://vishalranjan9130.github.io/siteclaus/
